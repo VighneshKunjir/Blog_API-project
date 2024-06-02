@@ -38,4 +38,4 @@ This guide will walk you through the process of using the project.
   2. Navigate to the project directory if you're not already there.
   3. Run the main index file using Node.js:
        `node index.js`
-  This command will start the application and connect it to the running server.
+This command will start the application and connect it to the running server.
