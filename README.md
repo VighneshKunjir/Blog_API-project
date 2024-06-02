@@ -20,11 +20,11 @@ This guide will walk you through the process of using the project.
   # Prerequisites
     Before getting started, ensure that you have Node.js and npm (Node Package Manager) installed on your system.
   # Installation
-    1. Clone the repository to your local machine using the following command:
+  1. Clone the repository to your local machine using the following command:
     `git clone <repository-url>`
-    2. Navigate to the project directory:
+  2. Navigate to the project directory:
     `cd <project-directory>`
-    3. Install project dependencies by running:
+  3. Install project dependencies by running:
     `npm install`
   # Running the Server
     1. Start by running the server file (server.js) to initialize the backend:
