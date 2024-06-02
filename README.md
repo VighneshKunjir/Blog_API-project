@@ -18,7 +18,7 @@ BlogSite is a dynamic web application that allows users to create, edit, and del
 This guide will walk you through the process of using the project.
 
   # Prerequisites
-    Before getting started, ensure that you have Node.js and npm (Node Package Manager) installed on your system.
+  Before getting started, ensure that you have Node.js and npm (Node Package Manager) installed on your system.
   # Installation
   1. Clone the repository to your local machine using the following command:
       `git clone <repository-url>`
@@ -41,3 +41,5 @@ This command will start the server and begin listening for incoming requests on 
        `node index.js`.
      
 This command will start the application and connect it to the running server.
+
+All set, now just open your browser any type `localhost:3000` in url.
