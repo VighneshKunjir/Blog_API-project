@@ -21,19 +21,21 @@ This guide will walk you through the process of using the project.
     Before getting started, ensure that you have Node.js and npm (Node Package Manager) installed on your system.
   # Installation
   1. Clone the repository to your local machine using the following command:
-    `git clone <repository-url>`
+      `git clone <repository-url>`
   2. Navigate to the project directory:
-    `cd <project-directory>`
+      `cd <project-directory>`
   3. Install project dependencies by running:
-    `npm install`
+      `npm install`
+
   # Running the Server
   1. Start by running the server file (server.js) to initialize the backend:
-    `node server.js`
+      `node server.js`
     This command will start the server and begin listening for incoming requests on the specified port.
+
   # Running main index file
   After running the server, proceed to run the main index file (index.js or app.js) to start the application:
     1. Open a new terminal window/tab.
     2. Navigate to the project directory if you're not already there.
     3. Run the main index file using Node.js:
-    `node index.js`
-    This command will start the application and connect it to the running server.
+      `node index.js`
+  This command will start the application and connect it to the running server.
