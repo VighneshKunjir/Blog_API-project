@@ -30,7 +30,7 @@ This guide will walk you through the process of using the project.
   # Running the Server
   1. Start by running the server file (server.js) to initialize the backend:
       `node server.js`
-    This command will start the server and begin listening for incoming requests on the specified port.
+This command will start the server and begin listening for incoming requests on the specified port.
 
   # Running main index file
   After running the server, proceed to run the main index file (index.js or app.js) to start the application:
