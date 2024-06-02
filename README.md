@@ -34,8 +34,8 @@ This guide will walk you through the process of using the project.
 
   # Running main index file
   After running the server, proceed to run the main index file (index.js or app.js) to start the application:
-    1. Open a new terminal window/tab.
-    2. Navigate to the project directory if you're not already there.
-    3. Run the main index file using Node.js:
-      `node index.js`
+  1. Open a new terminal window/tab.
+  2. Navigate to the project directory if you're not already there.
+  3. Run the main index file using Node.js:
+       `node index.js`
   This command will start the application and connect it to the running server.
